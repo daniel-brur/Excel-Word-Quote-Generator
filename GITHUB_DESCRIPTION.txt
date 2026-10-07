@@ -1,0 +1,1 @@
+Excel VBA automation that generates professional quotation documents in Microsoft Word, including tables, formatting, VAT calculations, and Spanish number-to-words conversion.
